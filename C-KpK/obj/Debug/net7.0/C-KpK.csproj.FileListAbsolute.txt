@@ -1,0 +1,15 @@
+D:\CSharp\MineProgs\C-KpK\bin\Debug\net7.0\C-KpK.exe
+D:\CSharp\MineProgs\C-KpK\bin\Debug\net7.0\C-KpK.deps.json
+D:\CSharp\MineProgs\C-KpK\bin\Debug\net7.0\C-KpK.runtimeconfig.json
+D:\CSharp\MineProgs\C-KpK\bin\Debug\net7.0\C-KpK.dll
+D:\CSharp\MineProgs\C-KpK\bin\Debug\net7.0\C-KpK.pdb
+D:\CSharp\MineProgs\C-KpK\obj\Debug\net7.0\C-KpK.csproj.AssemblyReference.cache
+D:\CSharp\MineProgs\C-KpK\obj\Debug\net7.0\C-KpK.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\MineProgs\C-KpK\obj\Debug\net7.0\C-KpK.AssemblyInfoInputs.cache
+D:\CSharp\MineProgs\C-KpK\obj\Debug\net7.0\C-KpK.AssemblyInfo.cs
+D:\CSharp\MineProgs\C-KpK\obj\Debug\net7.0\C-KpK.csproj.CoreCompileInputs.cache
+D:\CSharp\MineProgs\C-KpK\obj\Debug\net7.0\C-KpK.dll
+D:\CSharp\MineProgs\C-KpK\obj\Debug\net7.0\refint\C-KpK.dll
+D:\CSharp\MineProgs\C-KpK\obj\Debug\net7.0\C-KpK.pdb
+D:\CSharp\MineProgs\C-KpK\obj\Debug\net7.0\C-KpK.genruntimeconfig.cache
+D:\CSharp\MineProgs\C-KpK\obj\Debug\net7.0\ref\C-KpK.dll
